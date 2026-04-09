@@ -1,6 +1,6 @@
 /*
 * Sorting Algorithms Benchmark
-* Author: Crystal
+* Author: Alphabet6135
 * Date:   April 2026
 * Version: 1.0
 * 
